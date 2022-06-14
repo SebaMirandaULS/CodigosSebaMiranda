@@ -50,4 +50,3 @@ int main()
     }
 
 }
-//tengo q hacer lo mismo, pero con un array de N elementos, restringido hasta ciertos valores, y con un array random
